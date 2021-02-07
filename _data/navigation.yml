@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Sponsors"
+    url: /sponsors.html
+  - title: "Registration"
+    url: /registration.html
+  - title: "Programme"
+    url: /programme.html
+  - title: "Venue"
+    url: /venue.html
+  - title: "CfP"
+    url: /cfp.html
+  - title: "CoC"
+    url: /coc.html
+  - title: "Team"
+    url: /team.html
+  - title: "About"
+    url: /about.html
