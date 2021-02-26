@@ -56,7 +56,7 @@ namespace :notify do
     begin
       require 'xmlrpc/client'
       puts "* Notifying Ping-O-Matic that the site has updated"
-      XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Elbsides' , 'https://2019.elbsides.de', 'https://2019.elbsides.de/feed.xml')
+      XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Elbsides' , 'https://2021.elbsides.de', 'https://2021.elbsides.de/feed.xml')
     rescue LoadError
       puts "! Could not ping ping-o-matic, because XMLRPC::Client could not be found."
     end
@@ -68,7 +68,7 @@ namespace :notify do
       require 'net/http'
       require 'uri'
       puts "* Notifying Google that the site has updated"
-      Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' + URI.escape('https://2019.elbsides.de/sitemap.xml'))
+      Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' + URI.escape('https://2021.elbsides.de/sitemap.xml'))
     rescue LoadError
       puts "! Could not ping Google about our sitemap, because Net::HTTP or URI could not be found."
     end
@@ -80,7 +80,7 @@ namespace :notify do
       require 'net/http'
       require 'uri'
       puts '* Notifying Bing that the site has updated'
-      Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' + URI.escape('https://2019.elbsides.de/sitemap.xml'))
+      Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' + URI.escape('https://2021.elbsides.de/sitemap.xml'))
     rescue LoadError
       puts "! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found."
     end
@@ -98,7 +98,7 @@ namespace :clearcache do
   desc "Clear Cloudfront cache"
   task :cloudfront do
     begin
-      system "aws cloudfront create-invalidation --distribution-id E364CZXFVWDWB --paths \"/*\""
+      system "aws cloudfront create-invalidation --distribution-id E17T94MD392P5I --paths \"/*\""
     end
   end
 end
