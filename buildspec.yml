@@ -14,7 +14,7 @@ phases:
       - export LC_ALL="en_US.UTF-8"
       - locale-gen en_US en_US.UTF-8
       - dpkg-reconfigure locales
-      - gem install jekyll jekyll-paginate jekyll-sitemap jekyll-gist  html-proofer  jekyll-feed jemoji jekyll-include-cache
+      - gem install jekyll jekyll-paginate jekyll-sitemap jekyll-gist html-proofer jekyll-feed jemoji jekyll-include-cache bundler
   build:
     commands:
       - echo  Building and deploy beta at `date`

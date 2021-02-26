@@ -123,7 +123,7 @@ desc "push the contents of ./_site to S3"
 task :s3_website do
   puts "* syncing the contents of ./_site to the server"
   #system "s3_website push" # use --force with S3 config updates
-  system "aws s3 sync _site/ s3://2019.elbsides.de/ --delete --exclude \".DS_Store\" --exclude \".yml\" "
+  system "aws s3 sync _site/ s3://2021.elbsides.de/ --delete --exclude \".DS_Store\" --exclude \".yml\" "
 end
 
 # Usage: rake deploy
