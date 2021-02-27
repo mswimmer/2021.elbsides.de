@@ -15,10 +15,10 @@ minimal_mistakes_skin    : "elbsides"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elbsides 2019"
+title                    : "Elbsides 2021"
 title_separator          : "-"
 name                     : "Elbsides team"
-description              : "The home of the Elbsides 2019 conference in Hamburg Germany."
+description              : "The home of the Elbsides 2021 conference in Hamburg Germany."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -42,7 +42,7 @@ social:
 author:
   name             : "Elbsides team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "This is the Elbsides conference team."
+  bio              : "This is the Elbsides conference team."
   location         : "Hamburg, Germany"
   email            :
   links:

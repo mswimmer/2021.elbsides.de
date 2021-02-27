@@ -7,17 +7,6 @@ permalink: /cfp.html
 
 Elbsides is a venue for security professionals, software engineers, students, researchers and visionaries. We’re targeting the North German security communities, but everyone from all corners of the world is welcome. The conference gathers the security community in an event to share and discuss novel ideas, initiatives and advancements. Even though the conference is in Germany, the conference language is **English** and all presentations and slides are expected to be in English.
 
-**The Call for Presentations is now closed. Thank you all who submitted. We are now in the process of reviewing the submissions and will inform you of our decision soon.**
-
-**The deadline for submission ~~is~~ was *June ~~15~~ 23, 2019*.**
-
-### Workshops ###
-
-~~We welcome submissions for workshops, but not through the normal process. Please email us at elbsides -
-at -  gmail.com with your proposal.~~
-
-Call for Workshops is now closed. We thank you for your submissions.
-
 # Topics #
 
 We are soliciting talks on computer security topics, but are not limited to the following:
@@ -47,7 +36,6 @@ We will be actively soliciting presentations, but these will still go through th
 * If you already have a completed presentation or paper, you may add it as well. This is neither mandatory nor a replacement for a good abstract. It doesn't have to be the final presentation or paper.
 * We will give you the opportunity to publish your final presentation or paper after the conference.
 
-~~Submit using this link: [Elbsides 2019 Easychair](https://easychair.org/conferences/?conf=elbsides2019)~~
 
 # Program Committee #
 
