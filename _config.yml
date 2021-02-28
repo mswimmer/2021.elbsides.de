@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Elbsides 2021"
-subtitle                 : "Bsides for Hamburg in 2021"
+subtitle                 : "Security BSides for Hamburg"
 title_separator          : "-"
 name                     : "Elbsides team"
 description              : "The home of the Elbsides 2021 conference in Hamburg Germany."
