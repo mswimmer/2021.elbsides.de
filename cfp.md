@@ -30,7 +30,7 @@ We will be actively soliciting presentations, but these will still go through th
 ## Instructions ##
 
 * You will need an account with [Easychair](https://easychair.org). Either create one or use an existing account if you have used EasyChair before
-* Then, go to the [Easychair BSideMEsh21 page](https://easychair.org/conferences/?conf=bsidesmesh21)
+* Then, go to the [Easychair BSidesMEsh21 page](https://easychair.org/conferences/?conf=bsidesmesh21)
 * Add yourself and any additional authors
 * Add a title and the abstract **in English**. Please make the abstract convincing!
 * Add at least 3 keywords that classify your submission
@@ -46,8 +46,8 @@ We will be actively soliciting presentations, but these will still go through th
 
 # Elbsides Program Committee #
 
+* Ingo Bente
 * David Hamann
 * Fabian Huber
-* Ingo Bente
+* Sefan Kelm,  DFN-CERT Services GmbH
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
-* Stefan Kelm, DFN-CERT Services GmbH
