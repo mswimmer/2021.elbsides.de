@@ -56,6 +56,7 @@ namespace :notify do
     begin
       require 'xmlrpc/client'
       puts "* Notifying Ping-O-Matic that the site has updated"
+      # CHANGE FOR NEW: the http location
       XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Elbsides' , 'https://2021.elbsides.de', 'https://2021.elbsides.de/feed.xml')
     rescue LoadError
       puts "! Could not ping ping-o-matic, because XMLRPC::Client could not be found."
@@ -68,6 +69,7 @@ namespace :notify do
       require 'net/http'
       require 'uri'
       puts "* Notifying Google that the site has updated"
+      # CHANGE FOR NEW: the http location
       Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' + URI.escape('https://2021.elbsides.de/sitemap.xml'))
     rescue LoadError
       puts "! Could not ping Google about our sitemap, because Net::HTTP or URI could not be found."
@@ -80,6 +82,7 @@ namespace :notify do
       require 'net/http'
       require 'uri'
       puts '* Notifying Bing that the site has updated'
+      # CHANGE FOR NEW: the http location
       Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' + URI.escape('https://2021.elbsides.de/sitemap.xml'))
     rescue LoadError
       puts "! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found."
@@ -98,6 +101,7 @@ namespace :clearcache do
   desc "Clear Cloudfront cache"
   task :cloudfront do
     begin
+      # CHANGE FOR NEW: the distribution ID
       system "aws cloudfront create-invalidation --distribution-id E17T94MD392P5I --paths \"/*\""
     end
   end
@@ -123,6 +127,7 @@ desc "push the contents of ./_site to S3"
 task :s3_website do
   puts "* syncing the contents of ./_site to the server"
   #system "s3_website push" # use --force with S3 config updates
+  # CHANGE FOR NEW: the s3 location
   system "aws s3 sync _site/ s3://2021.elbsides.de/ --delete --exclude \".DS_Store\" --exclude \".yml\" "
 end
 

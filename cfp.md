@@ -30,18 +30,24 @@ We will be actively soliciting presentations, but these will still go through th
 ## Instructions ##
 
 * You will need an account with [Easychair](https://easychair.org). Either create one or use an existing account if you have used EasyChair before
+* Then, go to the [Easychair BSideMEsh21 page](https://easychair.org/conferences/?conf=bsidesmesh21)
 * Add yourself and any additional authors
 * Add a title and the abstract **in English**. Please make the abstract convincing!
 * Add at least 3 keywords that classify your submission
 * If you already have a completed presentation or paper, you may add it as well. This is neither mandatory nor a replacement for a good abstract. It doesn't have to be the final presentation or paper.
 * We will give you the opportunity to publish your final presentation or paper after the conference.
 
+## Important dates ##
 
-# Program Committee #
+* 1 March 2021: Call for Presentations opens
+* 31 March 2021: Call for Presentations closes
+* 19 April 2021: Inform of Acceptance/Rejection
+* 1 June 2021: Recorded presentations due
 
+# Elbsides Program Committee #
+
+* David Hamann
+* Fabian Huber
 * Ingo Bente
-* Florian Junge
-* Stefan Kelm, DFN-CERT Services GmbH
-* Christoph Kemetmueller
-* Hendrik Spiegel
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
+* Stefan Kelm, DFN-CERT Services GmbH
