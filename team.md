@@ -45,3 +45,6 @@ A past interest in archeology brought Florian to the field of security. To him, 
 
 Ingo works on all things related to information security. Compliance, user security, application security, opsec. He prefers automated, technical solutions and good awareness over a checklist approach to infosec. He is passionate about security. If compliance helps him to get there, that's fine. Ingo enjoys working in a team and in an environment that puts people and trust first. He is also the organizer of the [HH.security](https://www.meetup.com/hh-security/) meetup. In his spare time, Ingo enjoys modern boardgames.
 
+## Deborah ##
+
+Deborah is the third non-techie at Elbsides. With her profession in sales and marketing for an IT security company since 2019, she joined Elbsides - her very first IT security conference. To understand the IT security world better, diving deeper into the topic, getting to know the community and expanding her horizon became essential to her. If she does not write offers for IT security assessments and volunteer for Elbsides, doggie Pete will grab parts of her attention.
