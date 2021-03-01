@@ -17,9 +17,6 @@ Morton is a manager in the Forward-Looking Threat Research (FTR) team at Trend M
 
 Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, Bsides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and going to the theater.
 
-## Rebekka ##
-
-As the second non-techie Rebekka’s professional focus is on urban development, and social aspects of urban society.  Since connected systems become more and more integrated into everyone’s life, data protection as well as information security are relevant to her professional life.
 
 ## Hendrik ##
 
@@ -47,4 +44,4 @@ Ingo works on all things related to information security. Compliance, user secur
 
 ## Deborah ##
 
-Deborah is the third non-techie at Elbsides. With her profession in sales and marketing for an IT security company since 2019, she joined Elbsides - her very first IT security conference. To understand the IT security world better, diving deeper into the topic, getting to know the community and expanding her horizon became essential to her. If she does not write offers for IT security assessments and volunteer for Elbsides, doggie Pete will grab parts of her attention.
+Deborah is another non-techie at Elbsides. With her profession in sales and marketing for an IT security company since 2019, she joined Elbsides - her very first IT security conference. To understand the IT security world better, diving deeper into the topic, getting to know the community and expanding her horizon became essential to her. If she does not write offers for IT security assessments and volunteer for Elbsides, doggie Pete will grab parts of her attention.
