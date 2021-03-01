@@ -1,5 +1,5 @@
 ---
-title: "Sponsors"
+title: "Sponsors 2021"
 layout: archive
 permalink: /sponsors.html
 
@@ -10,13 +10,13 @@ possible, we try to keep the admission as low as possible. But, to
 make this happen, we need sponsors to cover our costs.
 
 
-# Gold Sponsors #
+# Argon Sponsor #
 
 
-# Silver Sponsors #
+# Neon Sponsors #
 
 
-# Bronze Sponsors #
+# Helium Sponsors #
 
 
 # Community Sponsors #
