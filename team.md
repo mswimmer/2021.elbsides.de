@@ -44,6 +44,8 @@ Ingo works on all things related to information security. Compliance, user secur
 
 ## Deborah ##
 
+[@DKuhntopf](https://twitter.com/DKuhntopf)
+
 Deborah is another non-techie at Elbsides. With her profession in sales and marketing for an IT security company since 2019, she joined Elbsides - her very first IT security conference. To understand the IT security world better, diving deeper into the topic, getting to know the community and expanding her horizon became essential to her. If she does not write offers for IT security assessments and volunteer for Elbsides, doggie Pete will grab parts of her attention.
 
 ## David ##
