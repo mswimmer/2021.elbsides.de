@@ -49,6 +49,6 @@ We will be actively soliciting presentations, but these will still go through th
 * Ingo Bente
 * David Hamann
 * Fabian Huber
-* Sefan Kelm,  DFN-CERT Services GmbH
+* Stefan Kelm,  DFN-CERT Services GmbH
 * Hendrik Spiegel
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
