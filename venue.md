@@ -5,4 +5,5 @@ permalink: /venue.html
 
 ---
 
-To be announced.
+In 2021 we will go virtual - more details to be announced.
+
