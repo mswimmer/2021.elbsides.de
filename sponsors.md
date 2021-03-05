@@ -29,7 +29,7 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px"  width="200px">
-			<img src="assets/images/bsidesmunich_logo_website_banner_2019-slider-bg.png" alt="BSides Munich" width="200px" />
+			<img src="assets/images/BSidesMunich.svg.png" alt="BSides Munich" width="200px" />
 		</td>
 	</tr>
 </table>
