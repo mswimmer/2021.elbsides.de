@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "CfP"
+    url: /cfp.html
   - title: "Sponsors"
     url: /sponsors.html
   - title: "Registration"
@@ -8,8 +10,6 @@ main:
     url: /programme.html
   - title: "Venue"
     url: /venue.html
-  - title: "CfP"
-    url: /cfp.html
   - title: "CoC"
     url: /coc.html
   - title: "Team"

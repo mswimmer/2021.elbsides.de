@@ -36,5 +36,5 @@ make this happen, we need sponsors to cover our costs.
 
 # How to become a sponsor #
 
-If you would like to be a sponsor and support the Hamburg security community, please see our [sponsor package](assets/documents/Sponsorpaket Elbsides 2021.pdf) and inquire at **elbsides -at- gmail.com**. We are looking forward to working with you!
+If you would like to be a sponsor and support the Hamburg security community, inquire at **elbsides -at- gmail.com**. We are looking forward to working with you!
 
