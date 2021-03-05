@@ -49,6 +49,11 @@ We will be actively soliciting presentations, but these will still go through th
 * Ingo Bente
 * David Hamann
 * Fabian Huber
-* Sefan Kelm,  DFN-CERT Services GmbH
+* Florian Junge
+* Stefan Kelm,  DFN-CERT Services GmbH
 * Hendrik Spiegel
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
+
+# Terms #
+
+All presentation slides will be published on the conference website after the conference. Please make sure that any pictures and other materials in your slides don’t violate any copyrights. You are solely liable for copyright violations.
