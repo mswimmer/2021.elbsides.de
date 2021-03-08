@@ -42,7 +42,7 @@ We will be actively soliciting presentations, but these will still go through th
 * 1 March 2021: Call for Presentations opens
 * 31 March 2021: Call for Presentations closes
 * 19 April 2021: Inform of Acceptance/Rejection
-* 1 June 2021: Recorded presentations due
+* 19 May 2021: Recorded presentations due
 
 # Elbsides Programme Committee #
 
