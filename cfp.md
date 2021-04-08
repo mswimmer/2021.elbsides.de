@@ -5,6 +5,8 @@ permalink: /cfp.html
 
 ---
 
+**The Call for Papers is now closed.** Thanks to all the authors who submitted to our event!
+
 Elbsides is a venue for security professionals, software engineers, students, researchers and visionaries. We’re targeting the North German security communities, but everyone from all corners of the world is welcome. The conference gathers the security community in an event to share and discuss novel ideas, initiatives and advancements. Even though the conference is in Germany, the conference language is **English** and all presentations and slides are expected to be in English.
 
 # Topics #
@@ -29,8 +31,8 @@ We will be actively soliciting presentations, but these will still go through th
 
 ## Instructions ##
 
-* You will need an account with [Easychair](https://easychair.org). Either create one or use an existing account if you have used EasyChair before
-* Then, go to the [Easychair BSidesMEsh21 page](https://easychair.org/conferences/?conf=bsidesmesh21)
+* You will need an account with Easychair. Either create one or use an existing account if you have used EasyChair before
+* Then, ~~go to the Easychair BSidesMEsh21 page~~
 * Add yourself and any additional authors
 * Add a title and the abstract **in English**. Please make the abstract convincing!
 * Add at least 3 keywords that classify your submission
@@ -39,8 +41,8 @@ We will be actively soliciting presentations, but these will still go through th
 
 ## Important dates ##
 
-* 1 March 2021: Call for Presentations opens
-* 31 March 2021: Call for Presentations closes
+* ~~1 March 2021: Call for Presentations opens~~
+* ~~31 March 2021: Call for Presentations closes~~
 * 19 April 2021: Inform of Acceptance/Rejection
 * 19 May 2021: Recorded presentations due
 * 20-22 June 2021: Elbsides 2021
@@ -51,7 +53,7 @@ We will be actively soliciting presentations, but these will still go through th
 * David Hamann
 * Fabian Huber
 * Florian Junge
-* Stefan Kelm,  DFN-CERT Services GmbH
+* Stefan Kelm, DFN-CERT Services GmbH
 * Hendrik Spiegel
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
 
