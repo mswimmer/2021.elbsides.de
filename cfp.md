@@ -54,6 +54,7 @@ We will be actively soliciting presentations, but these will still go through th
 * Fabian Huber
 * Florian Junge
 * Stefan Kelm, DFN-CERT Services GmbH
+* Jonas Köritz
 * Hendrik Spiegel
 * Dr. Morton Swimmer, Trend Micro, Inc. (chair)
 
