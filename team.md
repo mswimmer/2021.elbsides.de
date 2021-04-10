@@ -53,3 +53,11 @@ Deborah is another non-techie at Elbsides. With her profession in sales and mark
 [@d_hamann](https://twitter.com/d_hamann)
 
 David is a self-employed software developer, penetration tester and IT consultant. While being fascinated by computer security since his teenage years, most of his career revolved around building and maintaining software. In recent years, however, David's interest in offensive security led him to not only build systems but also break (into) them doing pentesting engagements.
+
+## Jonas ##
+
+[@jonaskoeritz](https://twitter.com/jonaskoeritz)
+
+Jonas' day job is in security testing, incident response and forensics at [Deutsche Telekom Security GmbH](https://www.t-systems.com/de/de/security). During engagements he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents.
+In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests.
+In the great outdoors he enjoys geocaching and paddling. More recently he added aerial photography and semi-autonomous flight with home-built UAVs to his outdoor activities.
