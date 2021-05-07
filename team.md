@@ -53,3 +53,8 @@ Deborah is another non-techie at Elbsides. With her profession in sales and mark
 [@d_hamann](https://twitter.com/d_hamann)
 
 David is a self-employed software developer, penetration tester and IT consultant. While being fascinated by computer security since his teenage years, most of his career revolved around building and maintaining software. In recent years, however, David's interest in offensive security led him to not only build systems but also break (into) them doing pentesting engagements.
+
+## Fabian ##
+
+Fabian started his carreer in financial consulting before his passion for microelectronics and cyber security lead him back to school to get his masters degree in micro electronic systems. He now looks into hardware vulnerabilities in embedded systems whenever he isn't making music.
+
