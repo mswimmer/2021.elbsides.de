@@ -22,9 +22,48 @@ Our top regional and international sponsors who want the widest visibility.
 
 Significant regional sponsors of our event.
 
+<table>
+	<tr>
+		<td>
+			<a href="https://www.dfn-cert.de/">DFN-CERT Services GmbH</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:150px" width="200px" height="100px">
+			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px"/>
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.schutzwerk.com">Schutzwerk GmbH</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="200px"  height="100px">
+			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="180px" />
+		</td>
+	</tr>
+</table>
+
 # Helium Sponsors #
 
 Our local heros that help us and our community thrive.
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.hamburg-port-authority.de">Hamburg	Port Authority AöR</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="200px" height="100px">
+			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="180px" />
+		</td>
+	</tr>
+</table>
 
 # Community Sponsors #
 
@@ -35,8 +74,8 @@ Our local heros that help us and our community thrive.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px"  width="200px">
-			<img src="assets/images/BSidesMunich.svg.png" alt="BSides Munich" width="200px" />
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px; min-height:100px" width="200px" height="100px">
+			<img src="assets/images/BSidesMunich.svg.png" alt="BSides Munich" width="180px" />
 		</td>
 	</tr>
 </table>
