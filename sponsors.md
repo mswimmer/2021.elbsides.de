@@ -6,7 +6,7 @@ permalink: /sponsors.html
 ---
 
 This is a community event and in order to stay as inclusive as
-possible, we try to keep the admission as low as possible. But, to
+possible, we try to keep the costs for runnng a virtual event as low as possible. But, to
 make this happen, we need sponsors to cover our costs.
 
 # How to become a sponsor #
