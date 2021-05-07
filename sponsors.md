@@ -16,7 +16,7 @@ If you would like to be a sponsor and support the Hamburg security community, in
 
 # Argon Sponsor #
 
-Our top regional and international sponsors who want the widest visibility.
+Our top regional and international sponsors who want wide visibility.
 
 # Neon Sponsors #
 
