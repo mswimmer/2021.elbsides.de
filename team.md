@@ -56,5 +56,5 @@ David is a self-employed software developer, penetration tester and IT consultan
 
 ## Fabian ##
 
-Fabian started his carreer in financial consulting before his passion for microelectronics and cyber security lead him back to school to get his masters degree in micro electronic systems. He now looks into hardware vulnerabilities in embedded systems whenever he isn't making music.
+Fabian started his career in financial consulting before his passion for microelectronics and cyber security lead him back to school to get his masters degree in micro electronic systems. He now looks into hardware vulnerabilities in embedded systems whenever he isn't making music.
 
