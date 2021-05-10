@@ -8,8 +8,6 @@ main:
     url: /registration.html
   - title: "Programme"
     url: /programme.html
-  - title: "Venue"
-    url: /venue.html
   - title: "CoC"
     url: /coc.html
   - title: "Team"
