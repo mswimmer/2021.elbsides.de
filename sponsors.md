@@ -38,14 +38,6 @@ Significant regional sponsors of our event.
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
 		</td>
-
-	</tr>
-</table>
-
-<table>
-	<tr>
-	</tr>
-	<tr>
 	</tr>
 </table>
 
