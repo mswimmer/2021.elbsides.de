@@ -5,7 +5,7 @@ permalink: /programme.html
 
 ---
 
-_This programme is prelimary_
+_This programme is preliminary_
 
 All times are CET (German summer time). The slot length includes Q&A. All presentations are precorded with the speaker available for questions after the talk and in the chat.
 
