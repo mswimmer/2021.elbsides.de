@@ -85,7 +85,7 @@ Details tba
 
 - Trainer: Bruno Diniz
 - Begins: 13:00
-- Run time: 6 hours
+- Run time: 4 hours
 
 Details tba
 
