@@ -17,7 +17,7 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 | 13:35 | 20     | Elbsides Sponsor Talk   |               
 | 13:55 | 35     | Demystifying the state of kubernetes cluster security - the cloud native way    | Vasant Chinnipilli and Pralhad Chaskar
 | 14:30 | 20     | Break
-| 14:50 | 20     | Abracadabra with a researcher’s reversing spells! | Sreenidhi Ramadurgam
+| 14:50 | 20     | Abracadabra - A researcher’s reversing spell! | Sreenidhi Ramadurgam
 | 15:10 | 20     | On the edge with access control devices |Ciancaglini et al
 | 15:30 | 35     | tba            | tba
 | 16:05 | 20     | Break
