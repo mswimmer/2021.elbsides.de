@@ -30,6 +30,9 @@ Significant regional sponsors of our event.
 		<td>
 			<a href="https://www.schutzwerk.com">Schutzwerk GmbH</a>
 		</td>
+		<td>
+			<a href="https://safety.google/innovation/">Google Germany GmbH</a>
+		</td>
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:150px" width="210px" height="100px">
@@ -38,6 +41,11 @@ Significant regional sponsors of our event.
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
 		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
+			<img src="assets/images/logo_Google_FullColor_1x_722x237px.png" alt="Google Safety Center" width="200px" />
+		</td>
+		
+
 	</tr>
 </table>
 
