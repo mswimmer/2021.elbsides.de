@@ -7,9 +7,18 @@ permalink: /programme.html
 
 _This programme is preliminary_
 
-All times are CET (German summer time). The slot length includes Q&A. All presentations are precorded with the speaker available for questions after the talk and in the chat.
+All times are CET (German summer time). The slot length includes Q&A. All presentations are precorded with the speaker available for questions after the talk and in the Slack chat.
 
-# Day 1
+# Schedules
+
+| Day | Date | Schedule
+|-----|------|------
+| 0   | Sunday, 2021-06-20 9:00 CET | [Workshop day](#workshops)
+| 1   | Monday, 2021-06-21 13:00 CET| [Conference day 1](#conference-day-1)
+| 2   | Tuesday, 2021-06-22 13:00 CET| [Conference day 2](#conference-day-2)
+
+## Conference day 1
+**Date:** 2021-06-21
 
 | Time  | length | Title                   | Authors       
 |-------|--------|-------------------------|---------------
@@ -27,11 +36,12 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 | 17:40 
 
 
-# Day 2
+## Conference day 2
+**Date:** 2021-06-22
 
 | Time	| length | Title | Authors
 |-------|--------|-------|--------
-| 13:00 | 5      |	Opening	
+| 13:00 | 5      | Opening	
 | 13:05 | 35	 | BSidesMunich Keynote	
 | 13:40 | 20     | tba   | Florian Murschetz and Mathieu Gaucheler
 | 14:00 | 35	 | AI in a Minefield: Learning from Poisoned Data | Itsik Mantin
@@ -45,9 +55,12 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 | 17:55 | 5      | Closing
 | 18:00
 
-# Workshops
+## Workshops
+**Date:** 2021-06-20
 
 There will be a separate registration for the workshops.
+
+---
 
 ## The Sorcery of Malware Reverse Engineering
 
@@ -57,6 +70,8 @@ There will be a separate registration for the workshops.
 
 Details tba
 
+---
+
 ## Fuzzing and finding vulnerabilities on Linux
 
 - Trainer: Hardik Shah
@@ -64,7 +79,9 @@ Details tba
 - Run time: 3 hours
 
 Details tba
-	
+
+---
+
 ## Finding and exploiting basic buffer overflows
 
 - Trainer: Christian Gross
@@ -72,6 +89,8 @@ Details tba
 - Run time: 4 hours
 
 Details tba
+
+---
 
 ## OSINT for Cyber Defenders
 
@@ -81,6 +100,8 @@ Details tba
 
 Details tba
 
+---
+
 ## OpenSourced Threat Hunting with Graylog + MISP + Sysmon
 
 - Trainer: Bruno Diniz
@@ -88,6 +109,8 @@ Details tba
 - Run time: 4 hours
 
 Details tba
+
+---
 
 ## CTF
 
