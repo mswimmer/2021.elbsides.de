@@ -15,7 +15,7 @@ Morton is a manager in the Forward-Looking Threat Research (FTR) team at Trend M
 
 [@wisecrackling](https://twitter.com/wisecrackling)
 
-Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, Bsides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and going to the theater.
+Coming from a non-technical background, Dagmar brings her knowledge of event organization to Elbsides. Through previous experiences in professional stage management / production for theatre in the UK and US, as well as Sci-Fi conventions in Germany, she teamed up with her husband Morton to organize events for the computer security industry, Bsides Munich being among them. Having lived and worked in a variety of countries, she enjoys traveling the globe and going to the theater, which hopefully will be possible again soon.
 
 
 ## Hendrik ##
@@ -61,3 +61,7 @@ David is a self-employed software developer, penetration tester and IT consultan
 Jonas' day job is in security testing, incident response and forensics at [Deutsche Telekom Security GmbH](https://www.t-systems.com/de/de/security). During engagements he specializes in disk forensics and fast triage, relying heavily on automation to aid in fast recovery of customers affected by data breaches or malware incidents.
 In his spare screen time he engages in various open source efforts and likes researching new forensics related topics. Reverse engineering proprietary APIs, file formats and protocols is one of his main interests.
 In the great outdoors he enjoys geocaching and paddling. More recently he added aerial photography and semi-autonomous flight with home-built UAVs to his outdoor activities.
+
+## Fabian ##
+
+Fabian started his career in financial consulting before his passion for microelectronics and cyber security lead him back to school to get his masters degree in micro electronic systems. He now looks into hardware vulnerabilities in embedded systems whenever he isn't making music.
