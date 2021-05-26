@@ -7,20 +7,20 @@ permalink: /programme.html
 
 _This programme is preliminary_
 
-All times are CET (German summer time). The slot length includes Q&A. All presentations are precorded with the speaker available for questions after the talk and in the Slack chat.
+All times are CET (German summer time). The slot length includes Q&A. All presentations are pre-recorded with the speaker available for questions after the talk and in the Slack chat.
 
 # Schedules
 
 | Day | Date | Schedule
 |-----|------|------
-| 0   | Sunday, 2021-06-20 9:00 CET | [Workshop day](#workshops)
-| 1   | Monday, 2021-06-21 13:00 CET| [Conference day 1](#conference-day-1)
-| 2   | Tuesday, 2021-06-22 13:00 CET| [Conference day 2](#conference-day-2)
+| 0   | Sunday,  2021-06-20, 09:00 CET | [Workshop day](#workshops)
+| 1   | Monday,  2021-06-21, 13:00 CET | [Conference day 1](#conference-day-1)
+| 2   | Tuesday, 2021-06-22, 13:00 CET | [Conference day 2](#conference-day-2)
 
 ## Conference day 1
 **Date:** 2021-06-21
 
-| Time  | length | Title                   | Authors       
+| Time  | Length | Title                   | Authors       
 |-------|--------|-------------------------|---------------
 | 13:00 | 35     | Elbsides Keynote        | Thomas Fricke 
 | 13:35 | 20     | Elbsides Sponsor Talk   |               
@@ -39,7 +39,7 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 ## Conference day 2
 **Date:** 2021-06-22
 
-| Time	| length | Title | Authors
+| Time	| Length | Title | Authors
 |-------|--------|-------|--------
 | 13:00 | 5      | Opening	
 | 13:05 | 35	 | BSidesMunich Keynote	
