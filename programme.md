@@ -58,7 +58,7 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 ## Workshops
 **Date:** 2021-06-20
 
-Workshop registration will be done with pretix. Link to register to be posted soon.
+Workshop registration will be done with pretix. You can book your workshop or CTF [here](https://pretix.eu/BSidesMEsh21/Workshops-CTF/).
 One workshop or CTF per person can be booked.
 
 ---
