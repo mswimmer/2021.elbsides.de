@@ -76,6 +76,10 @@ The beginning of the workshop covers what types of vulnerabilities exist and pre
 
 After the course the participants will have a basic understanding about binary exploitation, how to find vulnerabilities and how to write their own exploits.
 
+Trainer: Christian Gross
+- 3.5 years of working experience in Infosec
+- Infosec as a hobby / past-time since teenage years
+- OSCP/OSCE holder
 
 ---
 
@@ -91,6 +95,10 @@ There is a constant battle between Cyber Defenders trying to protect their netwo
 Our best chance against these actors comes from understanding how they think and operate; analyzing information about these group’s intent, capability, and motivations allows Cyber Defenders to be better prepared when an incident happens.
 
 In this workshop, we will learn ways to use OSINT in our favor during the Incident Response process.
+
+Trainer: Mario Rojas
+An accomplished information security professional with more than 10 years of experience. Proven ability to develop strategies and security road maps that create sustainable and creative compliance programs. I offer a diverse security background combined with strong problem-solving-based values.
+Having dedicated my life to this field, I am passionate about having a hacker mentality to tackle risk management and threat analysis. For me, it goes beyond only fixing what’s already broken, but rather being proactive about security, identifying our vulnerabilities ahead of time. I am known for creative solutions that stem from expert technical knowledge.
 
 ---
 
@@ -113,6 +121,9 @@ The session will deal with concepts:
 - Packing/unpacking executables
 - DLL injection
 - Usage of Ghidra and xdbg for analysis.
+
+Trainer: Ashwathi Sasi
+Ashwathi is a 21-year-old Reverse Engineer interested in dissecting executables. She is one of the members of the leading women-only CTF team - TeamShakti in India. She is also a member of India’s No. 1 CTF team - Teambi0s. She participates in various CTFs conducted at both national and international level. She has also been to Nullcon Cyber Security conference, received a scholarship to attend Windows Kernel Exploitation training and was also granted a student scholarship to attend Blackhat Asia 2019. She has conducted a workshop at BSides Delhi-2020 on Malware Reversing. Currently, Ashwathi is pursuing her final year undergraduate studies in Computer Science Engineering at Amrita University, India.
 
 ---
 
@@ -145,6 +156,11 @@ Detailed Outline:
 12. QnA
 13. Conclusion
 
+Trainer:
+Hardik Shah
+@hardik05
+Hardik Shah is an experienced security researcher and technology evangelist. He is currently working with McAfee as a vulnerability researcher. Hardik has found many vulnerabilities in windows and other open source software. He was also MSRC most valuable researcher for year 2019 and Top contributing researcher for Q1 2020. Hardik enjoys analyzing latest threats and figuring out ways to protect customers from them. You can follow him on twitter @hardik05 and read some of his blogs here: https://www.mcafee.com/blogs/author/hardik-shah
+
 ---
 
 ## OpenSourced Threat Hunting with Graylog + MISP + Sysmon
@@ -170,6 +186,12 @@ This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and on
 - Auto Backwards IOC Threat Hunting / ““New Intel + Old Logs”” Alerts
 - Manual IOC Threat Hunting
 - Manual TTP based Threat Hunting
+
+Trainer: Bruno Diniz
+@brunogdiniz
+Cyber Security Executive with 15+ year experience background on Cyber and Information Security. Strong experience leading cyber operations teams and services, with intelligence-led and business thinking mindset. Critical thinking and problem-solve approach. Experienced multi-vendor, multi-customer, multi-vertical environment with good negotiation skills.
+
+
 
 ---
 
