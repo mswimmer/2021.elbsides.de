@@ -77,10 +77,16 @@ Our local heros that help us and our community thrive.
 		<td>
 			<a href="http://bsidesmunich.org">BSidesMunich</a>
 		</td>
+		<td>
+			<a href="https://www.louis.de/">Louis</a>
+		</td>
 	</tr>
 	<tr>
 		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
 			<img src="assets/images/BSidesMunich.svg.png" alt="BSides Munich" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
+			<img src="assets/images/louis-logo-4c_001_19.png" alt="Detlev Louis Motorrad- Vertriebsgesellschaft mbH" width="200px" />
 		</td>
 	</tr>
 </table>
