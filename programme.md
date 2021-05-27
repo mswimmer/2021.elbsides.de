@@ -22,7 +22,7 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 
 | Time  | Length | Title                   | Authors       
 |-------|--------|-------------------------|---------------
-| 13:00 | 35     | Elbsides Keynote        | Thomas Fricke 
+| 13:00 | 35     | Elbsides Keynote - Practice DevSecOps and Beyond       | Thomas Fricke 
 | 13:35 | 20     | Elbsides Sponsor Talk   |               
 | 13:55 | 35     | Demystifying the state of kubernetes cluster security - the cloud native way    | Vasant Chinnipilli and Pralhad Chaskar
 | 14:30 | 20     | Break
@@ -58,37 +58,24 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 ## Workshops
 **Date:** 2021-06-20
 
-Workshop registration will be done with pretix. Link to be posted soon.
-
----
-
-## The Sorcery of Malware Reverse Engineering
-
-- Trainer: Ashwathi Sasi
-- Begins: 9:00
-- Run time: 4 hours
-
-Details tba
-
----
-
-## Fuzzing and finding vulnerabilities on Linux
-
-- Trainer: Hardik Shah
-- Begins: 9:00
-- Run time: 3 hours
-
-Details tba
+Workshop registration will be done with pretix. Link to register to be posted soon.
+One workshop or CTF per person can be booked.
 
 ---
 
 ## Finding and exploiting basic buffer overflows
 
-- Trainer: Christian Gross
+- Trainer: Christian Gross and Sarah Mader
 - Begins: 10:00
 - Run time: 4 hours
 
-Details tba
+Abstract:
+Binary exploitation is one of the oldest IT security topics but it is still very relevant today. When the Shadowbrokers released a collection of weaponized NSA binary exploits the world was at danger. These exploits were used by criminals to write the ransomware WannaCry which infected hundreds of thousands of computers world-wide. The exploit can only be understood by deep-diving into binary exploitation. However, understanding the concepts behind buffer overflows and many other sophisticated types of vulnerabilities is very difficult. A lot of prerequisite knowledge is needed about specific computer architectures and assembly language. Web application security for instance is equally as complex but much more approachable because the prerequisite knowledge is required only in smaller chunks. With this workshop I want to make it easy for people to jump into the topic of binary exploitation and just begin hacking.
+
+The beginning of the workshop covers what types of vulnerabilities exist and prepares the participants for the main part of the course. The main part is a hands-on experience featuring finding vulnerabilities by fuzzing with boofuzz and developing a fully working working exploit in Immunity Debugger to achieve remote code execution through a software called vulnserver. Vulnserver is an open-source and intentionally left vulnerable software to practice exploiting different vulnerabilities.
+
+After the course the participants will have a basic understanding about binary exploitation, how to find vulnerabilities and how to write their own exploits.
+
 
 ---
 
@@ -98,7 +85,65 @@ Details tba
 - Begins: 10:00
 - Run time: 4 hours
 
-Details tba
+Abstract:
+There is a constant battle between Cyber Defenders trying to protect their networks and the Threat Actors whose tactics and techniques keep evolving to circumvent our security solutions.
+
+Our best chance against these actors comes from understanding how they think and operate; analyzing information about these group’s intent, capability, and motivations allows Cyber Defenders to be better prepared when an incident happens.
+
+In this workshop, we will learn ways to use OSINT in our favor during the Incident Response process.
+
+---
+
+## The Sorcery of Malware Reverse Engineering
+
+- Trainer: Ashwathi Sasi
+- Begins: 9:00
+- Run time: 4 hours
+
+Abstract
+Malware attacks have taken-down the security in the digital world of individual end-users, whole networks, to industrial control systems and many more. The capability to understand the working of a malware is high in demand to deal with it in future. Getting familiar with the approaches undertaken for Malware Analysis, both static and dynamic analysis techniques are the starting points.
+
+Purpose of the workshop is to introduce the participants to the world of Windows Reversing and basics of Malware Analysis.
+
+The session will deal with concepts:
+
+- Malware and its types
+- PE file structure
+- Windows application reversing
+- Packing/unpacking executables
+- DLL injection
+- Usage of Ghidra and xdbg for analysis.
+
+---
+
+## Fuzzing and finding vulnerabilities on Linux
+
+- Trainer: Hardik Shah
+- Begins: 9:00
+- Run time: 3 hours
+
+Abstract
+In this workshop, we will discuss what is fuzzing how does fuzzer works, what are different types of fuzzers and how to use them to fuzz various open source softwares on linux. First we will have basic introduction to different types of vulnerabilities like integer overflow/underflow, stack/heap overflow/out of bound read/write which are very common in software, we will also see some example of real world vulnerabilities to get an understanding of these vulnerability types.
+
+Later on during the training we will first start with fuzzing a simple C program which contains these vulnerabilities. After that we will see how we fuzz real world open source software using fuzzers like AFL, honggfuzz and libfuzzer.
+
+This talk will also provide details on how does AFL works, what are the different mutation strategies it uses. basics of compile time instrumentation, how to collect corpus for fuzzing and how to minimize it, crash triage and finding root cause.
+
+Detailed Outline:
+
+1.  Different types of vulnerabilities - quick overview of Buffer overflow, heap overflow, integer overflow, use after free, out of bound read/Write.
+2.  Manually identifying the vulnerabilities in C code.
+3.  What is fuzzing and different types of fuzzer - dumb fuzzer, mutation fuzzer, coverage guided fuzzer.
+4.  Fuzzing Process
+5.  corpus collection
+6.  corpus minimization
+7.  Fuzzing Sample C program using AFL, libfuzzer and Honggfuzz, libfuzzer
+8.  Analyzing and triaging crashes
+9.  How to fuzz real world softwares using AFL,honggfuzz
+10. How to fuzz tcpdump/libtiff using AFL/Honggfuzz.
+11. Reporting crashes and bug bounties
+12. QnA
+13. Conclusion
 
 ---
 
@@ -108,10 +153,38 @@ Details tba
 - Begins: 13:00
 - Run time: 4 hours
 
-Details tba
+Abstract
+Show an Open Source yet powerful SETUP and conduct Auto Hunting (IOC Matching Rules) and IOC/TTP based Threat Hunting with Graylog Log Processor.
+
+This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and online MISP exported Threat Feeds from OpenCTI.BR project
+
+1st part (SETUP):
+
+- LAB Review
+- IOCs Onboarding
+- Windows Device LOG Onboarding
+
+2nd Part (Hunting):
+
+- Auto Hunting IOC Matching Rules / ““New Intel + New Logs”” Alerts
+- Auto Backwards IOC Threat Hunting / ““New Intel + Old Logs”” Alerts
+- Manual IOC Threat Hunting
+- Manual TTP based Threat Hunting
 
 ---
 
-## CTF
+## CTF: BHealth21-Secure Healthcare Services
+ 
+- hosted by Fujitsu
+- Begins: 14:00
+- Run time: 4 hours 
 
-Details tba
+Details
+BHealth21* is a virtual start-up that connects patients and the healthcare industry through a digital workflow. Our service distributes two digital workflows that patients and physicians can use. Founded in 2020 in Munich by Christoffer and Jonas, we have grown to 20 internal employees who take care of the development and operation of the service. The internal infrastructure is done on the side. 
+
+BHealth21’s customers include athletes, politicians and other celebrities. Our most valuable data is the customer appointments with their doctors and the medications their customers use. For a marketing campaign, the BHealt21 database was analyzed by the company's management. Unfortunately, the dataset contains a little bit more data than expected....
+
+In 4 hours, can you infiltrate BHealth21’s network and find what is worrying management so much? Compete against others in this unique capture the flag event!
+
+*BHealth21 is a completely fictional company. Any similarities to real places and people are coincidental.
+
