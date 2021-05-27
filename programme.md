@@ -97,7 +97,7 @@ Our best chance against these actors comes from understanding how they think and
 In this workshop, we will learn ways to use OSINT in our favor during the Incident Response process.
 
 Trainer: Mario Rojas
-An accomplished information security professional with more than 10 years of experience. Proven ability to develop strategies and security road maps that create sustainable and creative compliance programs. I offer a diverse security background combined with strong problem-solving-based values.
+- An accomplished information security professional with more than 10 years of experience. Proven ability to develop strategies and security road maps that create sustainable and creative compliance programs. I offer a diverse security background combined with strong problem-solving-based values.
 Having dedicated my life to this field, I am passionate about having a hacker mentality to tackle risk management and threat analysis. For me, it goes beyond only fixing what’s already broken, but rather being proactive about security, identifying our vulnerabilities ahead of time. I am known for creative solutions that stem from expert technical knowledge.
 
 ---
@@ -108,7 +108,7 @@ Having dedicated my life to this field, I am passionate about having a hacker me
 - Begins: 9:00
 - Run time: 4 hours
 
-Abstract
+Abstract:
 Malware attacks have taken-down the security in the digital world of individual end-users, whole networks, to industrial control systems and many more. The capability to understand the working of a malware is high in demand to deal with it in future. Getting familiar with the approaches undertaken for Malware Analysis, both static and dynamic analysis techniques are the starting points.
 
 Purpose of the workshop is to introduce the participants to the world of Windows Reversing and basics of Malware Analysis.
@@ -133,7 +133,7 @@ Trainer: Ashwathi Sasi
 - Begins: 9:00
 - Run time: 3 hours
 
-Abstract
+Abstract:
 In this workshop, we will discuss what is fuzzing how does fuzzer works, what are different types of fuzzers and how to use them to fuzz various open source softwares on linux. First we will have basic introduction to different types of vulnerabilities like integer overflow/underflow, stack/heap overflow/out of bound read/write which are very common in software, we will also see some example of real world vulnerabilities to get an understanding of these vulnerability types.
 
 Later on during the training we will first start with fuzzing a simple C program which contains these vulnerabilities. After that we will see how we fuzz real world open source software using fuzzers like AFL, honggfuzz and libfuzzer.
@@ -156,8 +156,7 @@ Detailed Outline:
 12. QnA
 13. Conclusion
 
-Trainer:
-- Hardik Shah
+Trainer: Hardik Shah
 - @hardik05
 - Hardik Shah is an experienced security researcher and technology evangelist. He is currently working with McAfee as a vulnerability researcher. Hardik has found many vulnerabilities in windows and other open source software. He was also MSRC most valuable researcher for year 2019 and Top contributing researcher for Q1 2020. Hardik enjoys analyzing latest threats and figuring out ways to protect customers from them. You can follow him on twitter @hardik05 and read some of his blogs here: https://www.mcafee.com/blogs/author/hardik-shah
 
@@ -169,7 +168,7 @@ Trainer:
 - Begins: 13:00
 - Run time: 4 hours
 
-Abstract
+Abstract:
 Show an Open Source yet powerful SETUP and conduct Auto Hunting (IOC Matching Rules) and IOC/TTP based Threat Hunting with Graylog Log Processor.
 
 This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and online MISP exported Threat Feeds from OpenCTI.BR project
@@ -201,7 +200,7 @@ Trainer: Bruno Diniz
 - Begins: 14:00
 - Run time: 4 hours 
 
-Details
+Details:
 BHealth21* is a virtual start-up that connects patients and the healthcare industry through a digital workflow. Our service distributes two digital workflows that patients and physicians can use. Founded in 2020 in Munich by Christoffer and Jonas, we have grown to 20 internal employees who take care of the development and operation of the service. The internal infrastructure is done on the side. 
 
 BHealth21’s customers include athletes, politicians and other celebrities. Our most valuable data is the customer appointments with their doctors and the medications their customers use. For a marketing campaign, the BHealt21 database was analyzed by the company's management. Unfortunately, the dataset contains a little bit more data than expected....
