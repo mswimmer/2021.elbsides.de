@@ -5,7 +5,7 @@ permalink: /programme.html
 
 ---
 
-_Programme - subject to change _
+_Programme - subject to change_
 
 All times are CET (German summer time). The slot length includes Q&A. All presentations are pre-recorded with the speaker available for questions after the talk and in the Slack chat.
 
@@ -58,7 +58,7 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 ## Workshops
 **Date:** 2021-06-20
 
-There will be a separate registration for the workshops.
+Workshop registration will be done with pretix. Link to be posted soon.
 
 ---
 
