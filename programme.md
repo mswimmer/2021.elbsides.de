@@ -123,7 +123,7 @@ The session will deal with concepts:
 - Usage of Ghidra and xdbg for analysis.
 
 Trainer: Ashwathi Sasi
-Ashwathi is a 21-year-old Reverse Engineer interested in dissecting executables. She is one of the members of the leading women-only CTF team - TeamShakti in India. She is also a member of India’s No. 1 CTF team - Teambi0s. She participates in various CTFs conducted at both national and international level. She has also been to Nullcon Cyber Security conference, received a scholarship to attend Windows Kernel Exploitation training and was also granted a student scholarship to attend Blackhat Asia 2019. She has conducted a workshop at BSides Delhi-2020 on Malware Reversing. Currently, Ashwathi is pursuing her final year undergraduate studies in Computer Science Engineering at Amrita University, India.
+- Ashwathi is a 21-year-old Reverse Engineer interested in dissecting executables. She is one of the members of the leading women-only CTF team - TeamShakti in India. She is also a member of India’s No. 1 CTF team - Teambi0s. She participates in various CTFs conducted at both national and international level. She has also been to Nullcon Cyber Security conference, received a scholarship to attend Windows Kernel Exploitation training and was also granted a student scholarship to attend Blackhat Asia 2019. She has conducted a workshop at BSides Delhi-2020 on Malware Reversing. Currently, Ashwathi is pursuing her final year undergraduate studies in Computer Science Engineering at Amrita University, India.
 
 ---
 
@@ -157,9 +157,9 @@ Detailed Outline:
 13. Conclusion
 
 Trainer:
-Hardik Shah
-@hardik05
-Hardik Shah is an experienced security researcher and technology evangelist. He is currently working with McAfee as a vulnerability researcher. Hardik has found many vulnerabilities in windows and other open source software. He was also MSRC most valuable researcher for year 2019 and Top contributing researcher for Q1 2020. Hardik enjoys analyzing latest threats and figuring out ways to protect customers from them. You can follow him on twitter @hardik05 and read some of his blogs here: https://www.mcafee.com/blogs/author/hardik-shah
+- Hardik Shah
+- @hardik05
+- Hardik Shah is an experienced security researcher and technology evangelist. He is currently working with McAfee as a vulnerability researcher. Hardik has found many vulnerabilities in windows and other open source software. He was also MSRC most valuable researcher for year 2019 and Top contributing researcher for Q1 2020. Hardik enjoys analyzing latest threats and figuring out ways to protect customers from them. You can follow him on twitter @hardik05 and read some of his blogs here: https://www.mcafee.com/blogs/author/hardik-shah
 
 ---
 
@@ -188,8 +188,8 @@ This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and on
 - Manual TTP based Threat Hunting
 
 Trainer: Bruno Diniz
-@brunogdiniz
-Cyber Security Executive with 15+ year experience background on Cyber and Information Security. Strong experience leading cyber operations teams and services, with intelligence-led and business thinking mindset. Critical thinking and problem-solve approach. Experienced multi-vendor, multi-customer, multi-vertical environment with good negotiation skills.
+- @brunogdiniz
+- Cyber Security Executive with 15+ year experience background on Cyber and Information Security. Strong experience leading cyber operations teams and services, with intelligence-led and business thinking mindset. Critical thinking and problem-solve approach. Experienced multi-vendor, multi-customer, multi-vertical environment with good negotiation skills.
 
 
 
