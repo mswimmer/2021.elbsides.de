@@ -65,7 +65,7 @@ One workshop or CTF per person can be booked.
 
 ## Finding and exploiting basic buffer overflows
 
-- Trainer: Christian Gross
+- Trainer: Christian Gross and Sarah Mader
 - Begins: 10:00
 - Run time: 4 hours
 
