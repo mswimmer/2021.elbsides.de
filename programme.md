@@ -173,7 +173,11 @@ This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and on
 
 ---
 
-## CTF
+## CTF: BHealth21-Secure Healthcare Services
+ 
+- hosted by Fujitsu
+- Begins: 14:00
+- Run time: 4 hours 
 
 Details
 BHealth21* is a virtual start-up that connects patients and the healthcare industry through a digital workflow. Our service distributes two digital workflows that patients and physicians can use. Founded in 2020 in Munich by Christoffer and Jonas, we have grown to 20 internal employees who take care of the development and operation of the service. The internal infrastructure is done on the side. 
