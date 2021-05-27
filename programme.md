@@ -150,7 +150,7 @@ This workshop will rely on 2x Virtual Machines (Graylog / Windows+Sysmon) and on
 - Manual TTP based Threat Hunting
 
 Trainer: Bruno Diniz
-- @brunogdiniz
+- [@brunogdiniz](https://twitter.com/brunogdiniz).
 - Cyber Security Executive with 15+ year experience background on Cyber and Information Security. Strong experience leading cyber operations teams and services, with intelligence-led and business thinking mindset. Critical thinking and problem-solve approach. Experienced multi-vendor, multi-customer, multi-vertical environment with good negotiation skills.
 
 
