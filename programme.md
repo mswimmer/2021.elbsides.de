@@ -60,7 +60,7 @@ Our best chance against these actors comes from understanding how they think and
 In this workshop, we will learn ways to use OSINT in our favor during the Incident Response process.
 
 Trainer: Mario Rojas
- - [@Mario Rojas](https://twitter.com/MarioRojasChin)
+ - [@MarioRojasChin](https://twitter.com/MarioRojasChin)
 - An accomplished information security professional with more than 10 years of experience. Proven ability to develop strategies and security road maps that create sustainable and creative compliance programs. I offer a diverse security background combined with strong problem-solving-based values.
 Having dedicated my life to this field, I am passionate about having a hacker mentality to tackle risk management and threat analysis. For me, it goes beyond only fixing what’s already broken, but rather being proactive about security, identifying our vulnerabilities ahead of time. I am known for creative solutions that stem from expert technical knowledge.
 
@@ -87,7 +87,7 @@ The session will deal with concepts:
 - Usage of Ghidra and xdbg for analysis.
 
 Trainer: Ashwathi Sasi
- - [@Ashwathi Sasi](https://twitter.com/Ashwathi_sasi)
+ - [@Ashwathi_sasi](https://twitter.com/Ashwathi_sasi)
 - Ashwathi is a 21-year-old Reverse Engineer interested in dissecting executables. She is one of the members of the leading women-only CTF team - TeamShakti in India. She is also a member of India’s No. 1 CTF team - Teambi0s. She participates in various CTFs conducted at both national and international level. She has also been to Nullcon Cyber Security conference, received a scholarship to attend Windows Kernel Exploitation training and was also granted a student scholarship to attend Blackhat Asia 2019. She has conducted a workshop at BSides Delhi-2020 on Malware Reversing. Currently, Ashwathi is pursuing her final year undergraduate studies in Computer Science Engineering at Amrita University, India.
 
 ---
