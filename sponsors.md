@@ -13,6 +13,23 @@ make this happen, we need sponsors to cover our costs.
 
 If you would like to be a sponsor and support the Hamburg security community, inquire at **elbsides -at- gmail.com**. Information on sponsoring is also available in the [English](/assets/documents/English Sponsor Package Elbsides 2021.pdf) and [German](/assets/documents/German Sponsorpaket Elbsides 2021.pdf) documents. *We are looking forward to working with you!* Contact us if none of these packages is a good fit and we may be able to work out another option for you.
 
+# Krypton Sponsor #
+
+Our top sponsor sponsors both sides of the #BSidesMEsh21 conference, [Elbsides](https://2021.elbsides.de) and [BSidesMunich](https://2021.bsidesmunich.org/). 
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.graylog.org">Graylog</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
+			<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog, Inc" width="200px" />
+		</td>
+	</tr>
+</table>
+
 
 # Argon Sponsor #
 
