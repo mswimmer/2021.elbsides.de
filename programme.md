@@ -17,43 +17,6 @@ All times are CET (German summer time). The slot length includes Q&A. All presen
 | 1   | Monday,  2021-06-21, 13:00 CET | [Conference day 1](#conference-day-1)
 | 2   | Tuesday, 2021-06-22, 13:00 CET | [Conference day 2](#conference-day-2)
 
-## Conference day 1
-**Date:** 2021-06-21
-
-| Time  | Length | Title                   | Authors       
-|-------|--------|-------------------------|---------------
-| 13:00 | 35     | Elbsides Keynote - Practice DevSecOps and Beyond       | Thomas Fricke 
-| 13:35 | 20     | Elbsides Sponsor Talk   |               
-| 13:55 | 35     | Demystifying the state of kubernetes cluster security - the cloud native way    | Vasant Chinnipilli and Pralhad Chaskar
-| 14:30 | 20     | Break
-| 14:50 | 20     | Abracadabra - A researcher’s reversing spell! | Sreenidhi Ramadurgam
-| 15:10 | 20     | On the edge with access control devices |Ciancaglini et al
-| 15:30 | 35     | tba            | tba
-| 16:05 | 20     | Break
-| 16:25 | 35     | Rise of the Cyber Jedi – Building a security community of practice | Gustav Lundsgård
-| 17:00 | 35     | “If Only They Would Take Us Seriously” : The Behavioral Science Influencing Your Cybersecurity Culture |Christina Lekati
-| 17:35 | 05     | Closing Day 1
-| 17:40 
-
-
-## Conference day 2
-**Date:** 2021-06-22
-
-| Time	| Length | Title | Authors
-|-------|--------|-------|--------
-| 13:00 | 5      | Opening	
-| 13:05 | 35	 | BSidesMunich Keynote	
-| 13:40 | 20     | tba   | Florian Murschetz and Mathieu Gaucheler
-| 14:00 | 35	 | AI in a Minefield: Learning from Poisoned Data | Itsik Mantin
-| 14:35 | 20     | Break				
-| 14:55 | 35     | CrimeOps of the KashmirBlack Botnet	| Sarit Yerushalmi and Ofir Shaty
-| 15:30 | 35     | Modern Adversary Tradecraft | Sajal Thomas
-| 16:05 | 20     | Break
-| 16:25 | 35     | Padding Oracle Attacks - The critical bug in your home-brewed crypto protocol | Henning Kopp
-| 17:00 | 35     | How to build better more secure KVM with off-the shelf hardware.	| Tim Panton
-| 17:35 | 20     | tba | tba
-| 17:55 | 5      | Closing
-| 18:00
 
 ## Workshops
 **Date:** 2021-06-20
@@ -208,4 +171,45 @@ BHealth21’s customers include athletes, politicians and other celebrities. Our
 In 4 hours, can you infiltrate BHealth21’s network and find what is worrying management so much? Compete against others in this unique capture the flag event!
 
 *BHealth21 is a completely fictional company. Any similarities to real places and people are coincidental.
+
+
+
+
+## Conference day 1
+**Date:** 2021-06-21
+
+| Time  | Length | Title                   | Authors       
+|-------|--------|-------------------------|---------------
+| 13:00 | 35     | Elbsides Keynote - Practice DevSecOps and Beyond       | Thomas Fricke 
+| 13:35 | 20     | Elbsides Sponsor Talk   |               
+| 13:55 | 35     | Demystifying the state of kubernetes cluster security - the cloud native way    | Vasant Chinnipilli and Pralhad Chaskar
+| 14:30 | 20     | Break
+| 14:50 | 20     | Abracadabra - A researcher’s reversing spell! | Sreenidhi Ramadurgam
+| 15:10 | 20     | On the edge with access control devices |Ciancaglini et al
+| 15:30 | 35     | tba            | tba
+| 16:05 | 20     | Break
+| 16:25 | 35     | Rise of the Cyber Jedi – Building a security community of practice | Gustav Lundsgård
+| 17:00 | 35     | “If Only They Would Take Us Seriously” : The Behavioral Science Influencing Your Cybersecurity Culture |Christina Lekati
+| 17:35 | 05     | Closing Day 1
+| 17:40 
+
+
+## Conference day 2
+**Date:** 2021-06-22
+
+| Time	| Length | Title | Authors
+|-------|--------|-------|--------
+| 13:00 | 5      | Opening	
+| 13:05 | 35	 | BSidesMunich Keynote	
+| 13:40 | 20     | tba   | Florian Murschetz and Mathieu Gaucheler
+| 14:00 | 35	 | AI in a Minefield: Learning from Poisoned Data | Itsik Mantin
+| 14:35 | 20     | Break				
+| 14:55 | 35     | CrimeOps of the KashmirBlack Botnet	| Sarit Yerushalmi and Ofir Shaty
+| 15:30 | 35     | Modern Adversary Tradecraft | Sajal Thomas
+| 16:05 | 20     | Break
+| 16:25 | 35     | Padding Oracle Attacks - The critical bug in your home-brewed crypto protocol | Henning Kopp
+| 17:00 | 35     | How to build better more secure KVM with off-the shelf hardware.	| Tim Panton
+| 17:35 | 20     | tba | tba
+| 17:55 | 5      | Closing
+| 18:00
 
