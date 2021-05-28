@@ -182,7 +182,7 @@ In 4 hours, can you infiltrate BHealth21’s network and find what is worrying m
 
 | Time  | Length | Title                   | Authors       
 |-------|--------|-------------------------|---------------
-| 13:00 | 35     | Elbsides Keynote - Practice DevSecOps and Beyond       | Thomas Fricke 
+| 13:00 | 35     | Elbsides Keynote - Practical DevSecOps and Beyond       | Thomas Fricke 
 | 13:35 | 20     | Elbsides Sponsor Talk   |               
 | 13:55 | 35     | Demystifying the state of kubernetes cluster security - the cloud native way    | Vasant Chinnipilli and Pralhad Chaskar
 | 14:30 | 20     | Break
