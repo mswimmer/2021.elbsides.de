@@ -188,7 +188,7 @@ In 4 hours, can you infiltrate BHealth21’s network and find what is worrying m
 | 14:30 | 20     | Break
 | 14:50 | 20     | Abracadabra - A researcher’s reversing spell! | Sreenidhi Ramadurgam
 | 15:10 | 20     | On the edge with access control devices |Ciancaglini et al
-| 15:30 | 35     | tba            | tba
+| 15:30 | 35     | The Care and Feeding of Meerkats | Sascha Steinbiss and Andreas Herz 
 | 16:05 | 20     | Break
 | 16:25 | 35     | Rise of the Cyber Jedi – Building a security community of practice | Gustav Lundsgård
 | 17:00 | 35     | “If Only They Would Take Us Seriously” : The Behavioral Science Influencing Your Cybersecurity Culture |Christina Lekati
