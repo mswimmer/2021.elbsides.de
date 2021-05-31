@@ -203,7 +203,7 @@ In 4 hours, can you infiltrate BHealth21’s network and find what is worrying m
 |-------|--------|-------|--------
 | 13:00 | 5      | Opening	
 | 13:05 | 35	 | BSidesMunich Keynote	
-| 13:40 | 20     | tba   | Florian Murschetz and Mathieu Gaucheler
+| 13:40 | 20     | No Distribute Scanners: A Perfect Testing Ground for Malware Developers   | Florian Murschetz and Mathieu Gaucheler
 | 14:00 | 35	 | AI in a Minefield: Learning from Poisoned Data | Itsik Mantin
 | 14:35 | 20     | Break				
 | 14:55 | 35     | CrimeOps of the KashmirBlack Botnet	| Sarit Yerushalmi and Ofir Shaty
