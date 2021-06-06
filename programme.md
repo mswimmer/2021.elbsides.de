@@ -211,7 +211,7 @@ In 4 hours, can you infiltrate BHealth21’s network and find what is worrying m
 | 16:05 | 20     | Break
 | 16:25 | 35     | Padding Oracle Attacks - The critical bug in your home-brewed crypto protocol | Henning Kopp
 | 17:00 | 35     | How to build better more secure KVM with off-the shelf hardware.	| Tim Panton
-| 17:35 | 20     | tba | tba
+| 17:35 | 20     | Log Management Keeps Your Network Secure -- Real-World Examples | Jeff Darrington
 | 17:55 | 5      | Closing
 | 18:00
 
