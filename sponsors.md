@@ -9,13 +9,9 @@ This is a community event and in order to stay as inclusive as
 possible, we try to keep the costs for runnng a virtual event as low as possible. But, to
 make this happen, we need sponsors to cover our costs.
 
-# How to become a sponsor #
-
-If you would like to be a sponsor and support the Hamburg security community, inquire at **elbsides -at- gmail.com**. Information on sponsoring is also available in the [English](/assets/documents/English Sponsor Package Elbsides 2021.pdf) and [German](/assets/documents/German Sponsorpaket Elbsides 2021.pdf) documents. *We are looking forward to working with you!* Contact us if none of these packages is a good fit and we may be able to work out another option for you.
-
 # Krypton Sponsor #
 
-Our top sponsor sponsors both sides of the #BSidesMEsh21 conference, [Elbsides](https://2021.elbsides.de) and [BSidesMunich](https://2021.bsidesmunich.org/). 
+Our top sponsors that help finance both sides of the [#BSidesMEsh21](https://twitter.com/search?q=%23BSidesMEsh21) conference, [Elbsides](https://2021.elbsides.de) and [BSidesMunich](https://2021.bsidesmunich.org/). 
 
 <table>
 	<tr>
@@ -33,7 +29,21 @@ Our top sponsor sponsors both sides of the #BSidesMEsh21 conference, [Elbsides](
 
 # Argon Sponsor #
 
-Our top regional and international sponsors who want wide visibility.
+The top regional and international sponsors of the [Elbsides](https://2021.elbsides.de) side of [#BSidesMEsh21](https://twitter.com/search?q=%23BSidesMEsh21).
+
+<table>
+	<tr>
+		<td>
+			<a href="https://www.airbus.com">Airbus S.A.S.</a>
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; min-height:100px" width="210px" height="100px">
+			<img src="assets/images/AIRBUS_Blue.png" alt="Airbus S.A.S." width="200px" />
+		</td>
+	</tr>
+</table>
+
 
 # Neon Sponsors #
 
@@ -109,3 +119,6 @@ Our local heros that help us and our community thrive.
 </table>
 
 
+# How to become a sponsor #
+
+Unfortunately, we are no longer accepting sponsorships this year. We'll be back in 2022 with either a hybrid or a in-person event, so think of us when the time gets nearer. Even better: Let us know at **elbsides -at- gmail.com** and we'll give you a heads up when the time gets nearer.
