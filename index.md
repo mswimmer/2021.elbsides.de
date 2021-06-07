@@ -3,7 +3,7 @@ layout: archive
 author_profile: false
 ---
 
-<img src="/assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
+<img src="assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
 **Hamburg** has a thriving computer security community and [we](about.html) are bringing security professionals together. 
 
@@ -12,3 +12,5 @@ This year Elbsides joins forces with BSides Munich - [#BSidesMEsh21](https://twi
 
 
 Follow us on [@elbsides](https://twitter.com/elbsides) for updates.
+
+<img src="assets/images/BSidesMEsh21 logo.jpg" align="center" alt="logo by Felix Swimmer">
