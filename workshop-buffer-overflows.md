@@ -28,3 +28,9 @@ After the course the participants will have a basic understanding about binary e
 - 3.5 years of working experience in Infosec
 - Infosec as a hobby / past-time since teenage years
 - OSCP/OSCE holder
+
+## Sarah Mader
+
+- Freshly graduated Master student with 1.5 years of working experience in Infosec
+- Main focus on IoT / Hardware hacking, especially Bluetooth technology
+- Binary Exploitation / Reverse Engineering Hobbyist
