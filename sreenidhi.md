@@ -1,7 +1,7 @@
 ---
 title: "Abracadabra - A researcher’s reversing spell!"
 layout: archive
-permalink: /screenidhi.html
+permalink: /sreenidhi.html
 ---
 
 # Speaker
