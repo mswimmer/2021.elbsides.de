@@ -14,11 +14,13 @@ Attackers always get better with new attack techniques, so our threat modelling 
 
 # Speaker information
 
-Vasant Chinnipilli and Pralhad Chaskar
+Vasant Chinnipilli
 
 [@cloudsecguy](https://twitter.com/cloudsecguy)
 
 Vasant is a security enthusiast, speaker and currently works as a Security Architect, DevSecOps Practitioner and working towards securing cloud and cloud native in a Continuous Deployment world. He is also developer of kubestriker - a blazing fast security auditing tool for kubernetes.
+
+Pralhad Chaskar
 
 [@c0d3xpl0it](https://twitter.com/@c0d3xpl0it)
 
