@@ -31,7 +31,7 @@ One workshop or CTF per person can be booked.
 | 10:00 | 4h     | [Finding and exploiting basic buffer overflows](/workshop-buffer-overflows.html)       | Christian Gross and Sarah Mader 
 | 10:00 | 4h     | [OSINT for Cyber Defenders](/workshop-osint.html)   | Mario Rojas
 | 13:00 | 4h     | [OpenSourced Threat Hunting with Graylog + MISP + Sysmon](/workshop-threat-hunting.html) | Bruno Diniz
-| 14:00 | 4h     | [CTF: BHealth21-Secure Healthcare Services](/ctf-health.html) | Fujitsu
+| 14:00 | 4h     | [CTF: BHealth21-Secure Healthcare Services](/ctf-health.html) | Fujitsu - Markus Endter
 
 
 ## Conference day 1
