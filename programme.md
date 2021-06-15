@@ -44,7 +44,7 @@ One workshop or CTF per person can be booked.
 | 13:55 | 35     | [Demystifying the state of kubernetes cluster security - the cloud native way](/chinnipilli.html)    | Vasant Chinnipilli and Pralhad Chaskar
 | 14:30 | 20     | Break
 | 14:50 | 20     | [Abracadabra - A researcher’s reversing spell!](/sreenidhi.html) | Sreenidhi Ramadurgam
-| 15:10 | 20     | [On the edge with access control devices](/vincenzo.html) |Ciancaglini et al
+| 15:10 | 20     | [On the edge with access control devices](/vincenzo.html) |Ciancaglini, Joey Costoya, et al
 | 15:30 | 35     | [The Care and Feeding of Meerkats](/steinbiss.html) | Sascha Steinbiss and Andreas Herz 
 | 16:05 | 20     | Break
 | 16:25 | 35     | [Rise of the Cyber Jedi – Building a security community of practice](/gustav.html) | Gustav Lundsgård
