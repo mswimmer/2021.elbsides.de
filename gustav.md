@@ -16,4 +16,4 @@ Amidst the digital revolution and the change that affects human behavior, IKEA h
 
 Gustav Lundsgård
 
-
+Licorice loving swede passionate about software security
