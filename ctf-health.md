@@ -6,7 +6,7 @@ permalink: /ctf-health.html
 
 # Trainers
 
-The workshop will be run by Fujitsu
+The workshop will be run by Markus Endter from Fujitsu
 
 # Schedule
 
