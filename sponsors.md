@@ -11,7 +11,7 @@ make this happen, we need sponsors to cover our costs.
 
 # Krypton Sponsor #
 
-Our top sponsors that help finance both sides of the [#BSidesMEsh21](https://twitter.com/search?q=%23BSidesMEsh21) conference, [Elbsides](https://2021.elbsides.de) and [BSidesMunich](https://2021.bsidesmunich.org/). 
+Our top sponsor that helps finance both sides of the [#BSidesMEsh21](https://twitter.com/search?q=%23BSidesMEsh21) conference, [Elbsides](https://2021.elbsides.de) and [BSidesMunich](https://2021.bsidesmunich.org/). 
 
 <table>
 	<tr>
