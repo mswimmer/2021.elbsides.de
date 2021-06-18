@@ -4,7 +4,7 @@ layout: archive
 permalink: /stream.html
 ---
 
-The conference will be streamed live on YouTube. 
+The BSidesMEsh21 conference will be streamed live on YouTube. 
 - For the first conference day (June 21) use this link:
 [Day 1 stream](https://youtu.be/Ta6GvQRq9Z0)
 
