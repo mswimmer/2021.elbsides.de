@@ -6,7 +6,7 @@ permalink: /swimmer.html
 
 # Speaker
 
-Dr. Morton Swimmer
+Dr. Morton Swimmer 
 
 # Abstract
 
