@@ -1,5 +1,5 @@
 ---
-title: "Vulnearable as a Service"
+title: "Vulnerable as a Service"
 layout: archive
 permalink: /swimmer.html
 ---
