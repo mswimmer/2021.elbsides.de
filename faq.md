@@ -9,8 +9,8 @@ permalink: /faq.html
 
 How do I keep up-to-date about the latest conference developments?
 Watch our websites and follow us on Twitter!
-Twitter:
 
+Twitter:
 - @elbsides
 - @BSidesMunich
 
