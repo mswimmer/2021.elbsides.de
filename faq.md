@@ -24,12 +24,15 @@ Where do I register to see the amazing conference talks?
 Great news! There is no need to register for conference talks! Conference presentations will be streamed on the days of the conference. Links and instructions for posting questions can be found on our website and will be shared on Twitter.
 
 Where do I register to attend workshops?
+
 All workshops are now fully booked.
 
 How can I interact with other participants?
+
 It is all about building a community! During the conference, folks will have a chance to gather and chat in Slack. Details are listed on our website.
 
 Do you need any volunteers? How can I help?
+
 If you are interested in helping us organize a conference in the future, please reach out to elbsides(@)gmail.com .
 
 Aside from this, here are some other ideas how you can help:
