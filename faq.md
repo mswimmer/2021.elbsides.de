@@ -15,8 +15,8 @@ Twitter:
 - @BSidesMunich
 
 Web:
-- https://2021.elbsides.de
-- https://2021.bsidesmunich.org
+- https://2021.elbsides.de/stream.html
+- https://2021.bsidesmunich.org/stream/
 
 
 Where do I register to see the amazing conference talks?
