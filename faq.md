@@ -7,7 +7,6 @@ permalink: /faq.html
 
 # Frequently Asked Questions
 
-Participants
 How do I keep up-to-date about the latest conference developments?
 Watch our websites and follow us on Twitter!
 Twitter:
@@ -21,6 +20,7 @@ Web:
 
 
 Where do I register to see the amazing conference talks?
+
 Great news! There is no need to register for conference talks! Conference presentations will be streamed on the days of the conference. Links and instructions for posting questions can be found on our website and will be shared on Twitter.
 
 Where do I register to attend workshops?
