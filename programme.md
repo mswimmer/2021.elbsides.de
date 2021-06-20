@@ -59,7 +59,7 @@ Workshop registration was done with pretix. Workshops are now fully booked and p
 | Time	|  Title | Speaker(s)
 |-------|-------|--------
 | 13:00 | Opening Day 2
-| 13:05 | BSidesMunich Keynote - InfoSec's Dirty Little Secrets	| Jenn Janesko
+| 13:05 | [BSidesMunich Keynote - InfoSec's Dirty Little Secrets]/(keynote-bsidesmuc.html)	| Jenn Janesko
 | 13:40 | [No Distribute Scanners: A Perfect Testing Ground for Malware Developers](/gaucheler.html) | Florian Murschetz and Mathieu Gaucheler
 | 14:00 | [AI in a Minefield: Learning from Poisoned Data](/mantin.html) | Itsik Mantin
 | 14:35 | Break				
