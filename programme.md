@@ -13,9 +13,9 @@ All times are CEST (German summer time). The slot length includes Q&A. All prese
 
 | Day | Date | Schedule
 |-----|------|------
-| 0   | Sunday,  2021-06-20, 09:00 CET | [Workshop day](#workshops)
-| 1   | Monday,  2021-06-21, 13:00 CET | [Conference day 1](#conference-day-1)
-| 2   | Tuesday, 2021-06-22, 13:00 CET | [Conference day 2](#conference-day-2)
+| 0   | Sunday,  2021-06-20, 09:00 CEST | [Workshop day](#workshops)
+| 1   | Monday,  2021-06-21, 13:00 CEST | [Conference day 1](#conference-day-1)
+| 2   | Tuesday, 2021-06-22, 13:00 CEST | [Conference day 2](#conference-day-2)
 
 
 ## Workshops
