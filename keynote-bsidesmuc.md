@@ -10,7 +10,7 @@ Jennifer Janesko
 
 # Abstract
 
-tba
+Application secrets exposure has lead to a series of serious data and system breaches over the past few years. In spite of the high profile nature of these cases, the incidences of application secrets leaks via git repositories and other public sites is still on the rise. This presentation reviews the anatomy of the secret's life cycle and recommends one possible path forward for InfoSec professionals to help in mitigating this problem.
 
 # Speaker information
 
