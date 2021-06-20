@@ -69,4 +69,4 @@ Workshop registration was done with pretix. Workshops are now fully booked and p
 | 16:10 | [Padding Oracle Attacks - The critical bug in your home-brewed crypto protocol](/henning.html) | Henning Kopp
 | 16:45 | [The Care and Feeding of Meerkats](/steinbiss.html) | Sascha Steinbiss and Andreas Herz
 | 17:15 | [Log Management Keeps Your Network Secure -- Real-World Examples](/jeff.html) | Jeff Darrington
-| 17:35 | Closing and beer bash with organizers
+| 17:35 | Closing and Virtual Prosit with organizers
