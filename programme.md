@@ -7,7 +7,7 @@ permalink: /programme.html
 
 _Programme - subject to change, times are approximate within a few minutes_
 
-All times are CET (German summer time). The slot length includes Q&A. All presentations are pre-recorded with the speaker available for questions after the talk and in the Slack chat.
+All times are CEST (German summer time). The slot length includes Q&A. All presentations are pre-recorded with the speaker available for questions after the talk and in the Slack chat.
 
 # Schedules
 
