@@ -16,4 +16,4 @@ Amidst the digital revolution and the change that affects human behavior, IKEA h
 
 Gustav Lundsgård
 
-Licorice loving swede passionate about software security
+Gustav is a licorice loving Swede, leading the Software Security capability at Ingka Digital(IKEA Retail). He is passionate about all things in Cyber Security, and a firm believer that the only way to succeed with security is having everyone doing it. Currently trying to empower all developers at IKEA to create secure software.
