@@ -26,8 +26,12 @@ It has a complex operation managed by one C&C (Command and Control) server and u
 
 Sarit Yerushalmi
 
+[@sarity85](https://twitter.com/sarity85)
+
 Security researcher at Imperva for the last 5 years in web application and cloud data security and for 5 years as a security analyst. Analyse CVEs and threats in web applications and cloud environments. Develop algorithms to detect and protect against attacks.
 
 Ofir Shaty
+
+[@mamamia431](https://twitter.com/mamamia431)
 
 Security researcher at Imperva for the last 5 years in web application and cloud data security and for 5 years as a security analyst. Analyse CVEs and threats in web applications and cloud environments. Develop algorithms to detect and protect against attacks.
