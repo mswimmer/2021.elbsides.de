@@ -16,4 +16,6 @@ There are so many facets to network security; sometimes, it’s more informative
 
 Jeff Darrington
 
+[@jivepig](https://twitter.com/jivepig)
+
 Jeff came to Graylog from a regional government agency in Ontario, Canada, and is a seasoned Graylog Open user. He has extensive experience in IT Operations, IT product solutions deployment in Firewalls, Networking, VOIP, Physical security Controls, and many others.
