@@ -5,7 +5,6 @@ author_profile: false
 
 <img src="assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
-**[Watch the live stream on June 21-22](stream.html)**
 
 **Hamburg** has a thriving computer security community and [we](about.html) are bringing security professionals together. 
 
