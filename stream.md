@@ -4,8 +4,7 @@ layout: archive
 permalink: /stream.html
 ---
 
-Q&A as well as chat will occur on Slack. 
-Use this [invitation link](https://join.slack.com/t/bsidesmesh21/shared_invite/zt-ru611red-90Xyxk~SsCbPgu9GgAmSMA) to join the BSidesMEsh21 Slack space.
+# It's a wrap - thank you all for watching.
 
 The BSidesMEsh21 conference will be streamed live on YouTube. 
 - For the first conference day (June 21, 1-6 pm CEST) use this link:
@@ -18,6 +17,4 @@ or watch it here:
 
 <iframe title="BSidesMEsh21 Day 1" src="https://www.youtube.com/embed/k1pY-cQMJwQ" width="1280" height="720" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-# Survey
 
-While you are here, please fill out our [Survey](https://forms.gle/9tpUByY65iSHmBYAA) to help us improve out events.
