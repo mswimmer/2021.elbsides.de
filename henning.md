@@ -4,6 +4,8 @@ layout: archive
 permalink: /henning.html
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TBnixhfIlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Speaker
 
 Henning Kopp

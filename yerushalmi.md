@@ -4,6 +4,8 @@ layout: archive
 permalink: /yerushalmi.html
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sw1A4mrZwT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Speaker
 
 Sarit Yerushalmi and Ofir Shaty
