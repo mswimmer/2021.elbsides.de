@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Stream"
-    url: /stream.html
   - title: "CfP"
     url: /cfp.html
   - title: "Sponsors"
